@@ -8,3 +8,6 @@
 <img src="./assets/pic2.jpeg">
 
 
+
+
+[Join me here](#near-class)
